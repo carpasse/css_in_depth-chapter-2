@@ -1,2 +1,2 @@
-# css_in_depth-chapter-2
+# simple_article
 Created with CodeSandbox
